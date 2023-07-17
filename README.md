@@ -1,2 +1,2 @@
-A Web app where a user can shera AI prompt
+A Web app where a user can share AI prompt
 
